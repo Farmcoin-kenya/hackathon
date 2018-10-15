@@ -1,0 +1,111 @@
+ASSUMPTIONS
+1 ACRE == 50 BAGS OF MAIZE
+1 BAG == 100KG
+1 KG == 1000
+since at this point im unable to distinguish between a token and a coin well ill just use shilingi to reduce on the confusion
+
+
+IDEA
+just the same way our normal notes(fifty 100 ,200 ) have the day they were printed
+
+our shilingi will have a season stamp e.g may-june 2018 
+
+and each season will have like its own shilingi
+
+for example 
+shilingi - (season code e.g 6 -18) is the one for may - june 2018
+shilingi - (season code e.g 1 -18)  is the one for jan - feb 2018
+and so on
+also the season code is added so that the shilingi of that season can gain intrest individually
+
+and now since we are saying that this shilingi is an asset we will give it a certain value eg 10k
+
+since if we start capping it to bags we will have to make a shillingi for each cerial.
+
+so when the farmer clocks in his goods .. they are weighed and valued 
+
+so lets say he sold bags of different cerial worth 500k 
+
+it would be 500/10 = 50 shilingi + (season code e.g 6 -18)
+
+
+Table names
+Users
+seasons
+bags
+cerials
+farm details
+argricultural industries.
+
+
+WHAT THEY CONTAIN
+Users - normal account details
+
+seasons - all the seasons and the amount the government offered per bag per cerials
+
+cerials - the cerials that the government deals with 
+
+bags - the number of bags the farmer sold in that particular season 
+
+shilingi - it will contain the seaaso
+STEPS
+1. Account creation
+2. farm registration
+3. selling process
+4. redeeming
+
+
+HOW IT WILL WORK
+1. ACCOUNT CREATION
+So if i dont have an account ill have to create one before im able to do anything
+
+
+
+The details that would be taken are : 
+#this shall be populated
+
+
+once i have an account 
+
+2. FARM REGISTRATION
+Prior to selling of maize every farmer will have to create an account and tell us where his farm is situated and the size of the farm and evidence that he owns the farm or has leased the farm
+
+this will ensure that the farmer will give us cerials that he can produce
+
+like if one has an acre he should give us a max of 50 bags of maize and he shouldnt be able to sell to the ncpb more than that.
+
+then the farms will have to be verified by agric officers
+
+this will also help in the projection of seeds,fertilizer and expected harvest of each cerial also an accurate data map of what is grown where.
+
+3. SELLING PROCESS
+When a new season comes up and the government annonces that it wants to buy cerials.
+ We will all go to sell(this is to those that have accounts).
+
+After the bags are weighed/ counted the system checks if thats something one can handle.
+i.e if my farm was one acre i should only be able to sell 50bags MAX.
+
+then the bags are weighed and valued and converted into kshs 
+
+50*100*100 = 500000 kshs
+
+then if the government is able to pay a certain percentage it pays
+
+lets say the government offered farmers instant payment of 30% of their sales so it will be 
+
+(500000/100)*30 = 150000
+
+with the remainder (350000) converted into the token so that it can gain intrest
+the conversion will be 
+
+350000/10000 = 35 shilingis
+
+since they have a certain value they are able to be broken down into smaller chunks and also into decimals 
+
+4. redeeming
+
+
+
+
+
+
